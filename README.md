@@ -6,6 +6,5 @@ These are all of the Spotify Banner ads works I did under TBWA\SMP. These were a
 
 ### How to view
 
-1. Open Google Web Designer
-2. Better if it was viewed on Mozilla Firefox, or Chrome
-3. Turn of all Adblockers. Make sure no adblockers are running as this would show errors of not showing up.
+1. Turn of ALL adblockers, as it could interfere with showing the ad
+2. Click on a folder, and open the .html file on your preferred web browser.
